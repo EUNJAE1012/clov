@@ -35,7 +35,7 @@ public class BackgroundController {
     private final RestTemplate restTemplate; // 추가
 
     // FastAPI AI 서버 URL
-    private static final String AI_SERVER_URL = "http://70.12.130.101:8000/generate";
+    private static final String AI_SERVER_URL = "your_AI_SERVER";
 
     /* ---------------- 공용 배경 목록 ---------------- */
     @GetMapping

@@ -21,7 +21,7 @@ const LandingPage = () => {
   
     // 외부 사이트 리다이렉션 핸들러
   const handleExternalLinkClick = () => {
-    window.open('https://i13a604.p.ssafy.io', '_blank'); // 원하는 URL로 변경
+    window.open('https://naver.com', '_blank'); // 원하는 URL로 변경
   };
 
   // 이벤트 응모 구글폼 핸들러
