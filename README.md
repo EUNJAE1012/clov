@@ -11,6 +11,7 @@
 > 
 
 [서비스 소개 영상](https://www.canva.com/design/DAGwqzqF93E/p5eGLRgF9DlIN0JC_x2lfw/edit?ui=e30)
+
 **언제 어디서든 함께 찍고, 공유하는 온라인 포토 부스**
 
 현대 사회에서 **즉석 기록과 추억을 공유하는 방식**은 지속적으로 진화하고 있습니다.
